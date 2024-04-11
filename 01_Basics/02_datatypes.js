@@ -1,6 +1,6 @@
-"use strict"; // Treat all JS code as newer version of JS
+"use strict"; // Treat all JS code as newer version of JS.
 
-// alert(3+3)   // We are using nodejs not  browser
+// alert(3+3)   // We are using nodejs not  browser.
 
 console.log(3+3); 
 console.log("Shrinivas")
